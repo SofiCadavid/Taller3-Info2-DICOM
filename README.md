@@ -34,6 +34,10 @@ Al ejecutar la aplicación sobre la carpeta `data/` completa se obtuvieron:
 
 Todos los DICOM válidos del dataset son de modalidad **MR** (resonancia magnética) con resolución típica de 256 × 256.
 
+**Nota:** El dataset utilizado para este proyecto no fue subido al repositorio por temas de pesa, el dataset cuenta con una gran cantidad de archivos, pero puede ser consultado en el siguiente [enlace](https://www.kaggle.com/datasets/saicharanuppara/mri-dicom-scans)
+
+*Para su correcta ejecución ubicar el dataset en una carpeta en la raíz del proyecto llamada `data/`*
+
 ---
 
 ## 3. Cómo ejecutar el proyecto
