@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Resultados generados
+results/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Configuración de editores e IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
